@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered Kubernetes Deployment Assistant
 
 AI-powered deployment platform using:
@@ -54,3 +55,7 @@ Kubernetes Deployment
        |
        v
 Application Live
+=======
+# -AI-Kubernetes-Deployment-Assistant
+>>>>>>> origin/main
+# -AI-Kubernetes-Deployment-Assistant
